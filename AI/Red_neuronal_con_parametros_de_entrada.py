@@ -1,4 +1,8 @@
 '''
+Descripcion
+Esta es la implementacion de una red neuronal en la cual el programa pedira al usuario entradas como por ejemplo el numero de capas
+que desea, la cantidad de neuronas por cada capa y otros datos para que al final se genere una grafica mostrando como la red neuronal
+aprende mediante el algoritmo de BackPropagation y disminuye su porcentaje de error
 Autor
 Jose Cubillos 
 Nota: La implementacion de esta red neuronal se hizo basado en la guia del video de dotCSV, que se encuentra en el siguiente link:
